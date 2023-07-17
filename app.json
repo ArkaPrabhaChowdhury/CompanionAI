@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "icon": "./icon.png",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "Companion",
+    "slug": "Companion",
+    "extra": {
+      "eas": {
+        "projectId": "1284a002-cb42-4e33-9ebe-b72e92d3bfb2"
+      }
+    },
+    "android": {
+      "package": "com.arka24.Companion"
+    },
+    "ios": {
+      "bundleIdentifier": "com.arka24.Companion"
+    }
+  }
+}
